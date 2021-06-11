@@ -1,6 +1,6 @@
 ---
-layout: post-list
+layout: nombres
 title: nombres
-excerpt: "una lista de guías"
+excerpt: "una lista de nombres"
 comments: false
 ---
