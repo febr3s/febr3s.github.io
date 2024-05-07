@@ -4,18 +4,22 @@ title: Hola World
 tags: 
 author: Eduardo Febres
 ---
+Sóngoro Consongo is a bilingual podcast. It explores the cultural tapestry of Afro-Latin American music and literature. Along with ALAWiT,
+it promotes the exploration, discovery, and celebration of Afro-Latin American culture.
 
-MOREL comenzó por la idea --desmesurada, inalcanzable, ciclópea-- de crear una plataforma cooperativa para organizar en una colección dinámica y entrelazada las obras literarias latinoamericanas digitalizadas que se encuentran en el dominio público. Así surgió Metadatos de Obras para Repositorios Electrónicos Latinoamericanos: un repositorio donde hay casi 500 obras organizadas en listas dinámicas... etc.
+Episodes are monthly. In them, we delve into the relationship between Afro-Latin American music and literature. A relation that runs across the Afro-Latin American tradition, in figures like Nicolás Guillén. Transformed it into music by various artists, his work is a paradigmatic example of this fusion.
 
-El carácter monumental de tal tarea --que de todas formas permanece y permanecerá inconclusa pues su duración es incalculable-- motivó la creación de algunas tecnologías y metodologías para facilitar la agregación de contenidos. Así surgió Mobile Open Resilient Electronic Libraries: un método para que personas no expertas en el manejo de tecnologías web pero familiarizadas con el uso de gestores de referencias puedan colaborar en la alimentación de archivos colectivos.
+Sóngoro Consongo's guests take part in Afro-Latin American music and literature in different ways. They are writers, translators, publishers, researchers, musicians, interpreters, and music selectors. Their insights contribute to engaging conversations about Afro-Latin American culture from diverse perspectives. 
 
-[Explicación del acrónimo]
+Each guest also suggests items to enrich our library and songs to engage our audience. Their contributions drive the dynamic evolution of ALAWiT. And they foster the understanding of Afro-Latin American music and literature.
 
-Hoy estoy haciendo pública la primera versión de el generador de sitios MOREL, que aspira a ser utilizable y reproducible por personas con un conocimiento técnico mínimo, sin grandes dificultades. Este generador combina...
+---
 
+Sóngoro Consongo es un podcast bilingüe. Explora el tapiz cultural de la música y la literatura afrolatinoamericanas. Junto con ALAWiT,
+promueve la exploración, el descubrimiento y la celebración de la cultura afrolatinoamericana.
 
+Los episodios son mensuales. En ellos, profundizamos en la relación entre la música y la literatura afrolatinoamericanas. Una relación que atraviesa la tradición afrolatinoamericana, en figuras como Nicolás Guillén. Transformada en música por diversos artistas, su obra es un ejemplo paradigmático de esta fusión.
 
-Con MOREL, la creación de archivos de nicho y colecciones especializadas sea tan fácil como la importación de una hoja de obras citadas. Actualmente hay un par de pasos intermedios más. Pero con algunas contribuciones puede llegar a ser posible a mediano plazo.
+Los invitados de Sóngoro Consongo participan en la música y la literatura afrolatinoamericanas de diferentes maneras. Son escritores, traductores, editores, investigadores, músicos, intérpretes, coleccionistas y selectors. Sus puntos de vista contribuyen a entablar conversaciones sobre la cultura afrolatinoamericana desde diversas perspectivas. 
 
-
-La transición de una serie de scripts, metodologías, layouts, etcétera, utilizadas individualmente o por equipos pequeños, a una caja de herramientas al público general, para que se las apropien y las utilicen según sus necesidades, es una tarea mucho más compleja que lo que uno se imagina. 
+Cada invitado sugiere también elementos para enriquecer nuestra biblioteca y canciones para atraer a nuestro público. Sus contribuciones impulsan la evolución dinámica de ALAWiT, al tiempo que fomentan la comprensión de la música y la literatura afrolatinoamericanas.

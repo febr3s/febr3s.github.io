@@ -1,5 +1,5 @@
 ---
-title: "Cancion negra sin color."
+title: "Cancion negra sin color"
 key: "435CQ6VN"
 author: Arozarena, Marcelino
 ---
