@@ -9,7 +9,7 @@ twitter :
 instagram:
 remote_theme: morelrep/morel-theme
 podcast: true
-jotform:
+jotform: https://form.jotform.com/232067427031145
 
 # If you want to build your site in a repo that is not named youruser.github.io (for example youruser.github.io/reponame), uncomment the following line
 BASE_PATH: /alawit-from-morel
