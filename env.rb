@@ -10,9 +10,8 @@
 
 # Define an array of commands
 commands = [
-  "jekyll build --config _config_local.yml",
-  "unzip -d ./assets/ ./_site/assets/env.zip",
-  "mkdir ./_site/abouts && cp _includes/site-description.html ./_site/abouts"
+  "cd assets/env/bin",
+  "cd ../src"
 ]
 
 # Execute each command sequentially

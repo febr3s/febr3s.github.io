@@ -8,14 +8,26 @@ layout: default
         <!--Búsqueda-->
         <a href="search"><div class="search-index"><i class="fa fa-search" aria-hidden="true" class="search-index"></i></div></a>
 
-        <!-- One random book -->
+        <!-- Last from series -->
         <div class="row obras obra-suerte">
             <h2 class="index">Last translation from the series</h2>
         </div>
         {% include last-series.html %}
+        
+        <!--Forthcoming translations -->        
+        <div class="row obras obra-suerte">
+            <h2 class="index">Now in translation</h2>
+        </div>
+        {% include forthcoming-list.html %}
+        
+        <!--Some other book translations -->        
+        <div class="row obras obra-suerte">
+            <h2 class="index">Some book translations</h2>
+        </div>
+        {% include book-list-translations.html %}
 
 
-        <!--Últimas siete traducciones registradas -->        
+        <!--Some other book translations -->        
         <div class="row obras obra-suerte">
             <h2 class="index">Some book translations</h2>
         </div>
