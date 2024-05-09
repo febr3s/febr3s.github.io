@@ -2,7 +2,9 @@
 title: description
 lang: en
 ---
-{{site.title}} is a resource for readers, writers, publishers, students and teachers interested in Afro-American and Latin American culture in general, and Afro-Latin American culture in particular. It gathers book covers, excerpts, bibliographic clues and digital downloads of works by black Latin American authors in original language and in translation. The collection is developed to promote Afro-Latin American Writers in Translation: a series of critial editions of celebrated works in translation coordinated by professor Mark A. Sanders and aimed to advance research and academic reflection on the Black presence in Latin America and its influence across the Americas. 
+{{site.title}} is a resource for readers, writers, publishers, students and teachers interested in Afro-American and Latin American culture in general, and Afro-Latin American culture in particular. It gathers book covers, excerpts, bibliographic clues and digital downloads of works by black Latin American authors in original language and in translation. 
+
+The collection is developed to promote Afro-Latin American Writers in Translation: a series of critial editions of celebrated works in translation coordinated by professor Mark A. Sanders and aimed to advance research and academic reflection on the Black presence in Latin America and its influence across the Americas. 
 
 <!-- more -->
 ALAWiT is organized by dynamic lists, which group the works according to common characteristics ([authors]({{BASE_PATH}}/chriteria/author), [city of publication]({{BASE_PATH}}/chriteria/city), [imprint or publisher]({{BASE_PATH}}/chriteria/publisher), [nationality of authors]({{BASE_PATH}}/chriteria/nationality), [edition date]({{BASE_PATH}}/chriteria/edition) and [digital repository]({{BASE_PATH}}/chriteria/repository)). But it also has a [search engine]({{BASE_PATH}}/search) that allows you to find works directly.
