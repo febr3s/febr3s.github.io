@@ -9,7 +9,10 @@ _posts/* merge=ours
 _publishers/* merge=ours
 _repositories/* merge=ours
 assets/* merge=ours
+assets/js/* merge=ours
+assets/data/* merge=ours
+assets/img/* merge=ours
 /_config.yml merge=ours
 /about.md merge=ours
 /podcast.md merge=ours
-/serve-local.rb
+/serve-local.rb merge=ours
