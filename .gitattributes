@@ -15,4 +15,3 @@ assets/img/* merge=ours
 /_config.yml merge=ours
 /about.md merge=ours
 /podcast.md merge=ours
-/serve-local.rb merge=ours
