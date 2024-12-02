@@ -10,7 +10,7 @@
         var item = store[results[i].ref];
         
         // Construct the URL with the base path
-        var basePath = '/alawit-from-morel'; // Replace with your actual base path
+        var basePath = '/alawit.org'; // Replace with your actual base path
         var url = basePath + item.url; // Concatenate base path with item.url
 
         // Build the HTML string for each search result item
@@ -22,7 +22,7 @@
       searchResults.innerHTML = appendString;
     } else {
       // Display a message if no results are found
-searchResults.innerHTML = '<p>Aún esa obra o esa autora no están disponibles. <a href="/alawit-from-morel/add">Sugiere su incorporación</a></p>';
+searchResults.innerHTML = '<p>Aún esa obra o esa autora no están disponibles. <a href="/alawit.org/add">Sugiere su incorporación</a></p>';
     }
   }
 
