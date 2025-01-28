@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "_site"
+		},
+		{
+			"path": "../morel-theme"
+		},
+		{
+			"path": "../morel-theme-generator"
+		}
+	],
+	"settings": {}
+}

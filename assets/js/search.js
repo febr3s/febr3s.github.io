@@ -10,7 +10,7 @@
         var item = store[results[i].ref];
         
         // Construct the URL with the base path
-        var basePath = '/alawit.org'; // Replace with your actual base path
+        var basePath = '/'; // Replace with your actual base path
         var url = basePath + item.url; // Concatenate base path with item.url
 
         // Build the HTML string for each search result item
