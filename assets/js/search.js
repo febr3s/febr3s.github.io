@@ -10,11 +10,11 @@
         var item = store[results[i].ref];
         
         // Construct the URL with the base path
-        var basePath = '/'; // Replace with your actual base path
-        var url = basePath + item.url; // Concatenate base path with item.url
+       // var basePath = 'alawit.org'; // Replace with your actual base path
+        //var url = basePath + item.url; // Concatenate base path with item.url
 
         // Build the HTML string for each search result item
-        appendString += '<li><a href="' + url + '"><h3>' + item.title + '</h3></a>';
+        appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3></a>';
         appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
       }
 
